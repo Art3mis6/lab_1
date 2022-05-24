@@ -1,0 +1,37 @@
+div
+{text-align: center;
+font-family: "Times New Roman", Times, serif;
+}
+#b1
+{width: 100%;}
+#b2
+{width: 1200px;
+height: 190px;
+padding: 10px;
+padding-bottom: 20px;
+background-color: brown;
+text-align: center;
+}
+#b3
+{width: 300px;
+height: 600px;
+background-color: yellow;
+}
+#b4
+{
+width: 920px;
+height: 600px;
+
+margin: 300px;
+margin-top: -600px;
+background: url(pic1.png);
+background-color: blue;
+}
+#b5
+{
+width: 1220px;
+height: 190px;
+background-color: green;
+margin-top: -300px;
+}
+body
